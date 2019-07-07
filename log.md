@@ -8,5 +8,5 @@
 **Thoughts** I've recently started coding in Swift and i found it interesting and easy to learn.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. [Day 1 - variables and data types](https://github.com/dhairyachandra/100-days-of-code/blob/master/Swift%20Learning/Day%201.playground/Contents.swift)
 
