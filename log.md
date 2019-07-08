@@ -4,7 +4,7 @@
 
 ### Day 2: July 8, Sunday
 
-**Today's Progress**: learned about getting started with iOS developement, if and switch statement in swift.
+**Today's Progress**: learned about getting started with iOS development, if and switch statement in swift.
 
 **Thoughts**: Explored many new things and I found swift is interesting to learn.  
 
