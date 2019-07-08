@@ -8,7 +8,7 @@
 
 **Thoughts**: Explored many new things and I found swift is interesting to learn.  
 
-**Link of work**:  [Day 2 - if and else statements](https://github.com/dhairyachandra/100-days-of-code/blob/master/Swift%20Learning/Day%201.playground/Contents.swift)
+**Link of work**:  [Day 2 - if and else statements](https://github.com/dhairyachandra/100-days-of-code/blob/master/Swift%20Learning/Day%202.playground/Contents.swift)
 
 
 ### Day 1: July 7, Sunday
