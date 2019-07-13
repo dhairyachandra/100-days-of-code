@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 5: July 13, Saturday 
+
+**Today's Progress**: I have learned about classes, inheritance, override and started with UIKit.
+
+**Link of work**:  [Day 5 - classes](https://github.com/dhairyachandra/100-days-of-code/blob/master/Swift%20Learning/Day%205.playground/Contents.swift)
+
 ### Day 4: July 12, Friday 
 
 **Today's Progress**: I have learned about functions ( return values, 1 parameter, multiple parameters). 
