@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
 
+### Day 9: 
+
+**Today's Progress**: I have designed a social login page using auto layouts in Xcode.
+
+### Day 8: 
+
+**Today's Progress**: Getting started with Auto Layouts in Xcode.
+
 ### Day 7: 
 
 **Today's Progress**: Designed my first (Hello World) iOS app using XCode.
