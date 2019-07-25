@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
 
 
+### Day 10: 
+
+**Today's Progress**: I have designed a thoughts app UI using auto layouts for both portrait and landscape modes.
+
 ### Day 9: 
 
 **Today's Progress**: I have designed a social login page using auto layouts in Xcode.
