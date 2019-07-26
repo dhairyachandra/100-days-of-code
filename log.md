@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
 
 
+### Day 11: 
+
+**Today's Progress**: Learned about stack views in Xcode. Also designed 2 different app UI using stack views for landscape and portrait mode.
+
 ### Day 10: 
 
 **Today's Progress**: I have designed a thoughts app UI using auto layouts for both portrait and landscape modes.
