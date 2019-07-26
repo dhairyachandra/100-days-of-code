@@ -5,13 +5,20 @@
 
 **Today's Progress**: Learned about stack views in Xcode. Also designed 2 different app UI using stack views for landscape and portrait mode.
 
+**Link of work**:  [Food Stack View](https://github.com/dhairyachandra/ios-apps/tree/master/Stack%20Views)
+
+
 ### Day 10: 
 
 **Today's Progress**: I have designed a thoughts app UI using auto layouts for both portrait and landscape modes.
 
+**Link of work**:  [Thoughts App](https://github.com/dhairyachandra/ios-apps/tree/master/Thoughts%20Auto%20Layouts)
+
 ### Day 9: 
 
 **Today's Progress**: I have designed a social login page using auto layouts in Xcode.
+
+**Link of work**:  [Social Login](https://github.com/dhairyachandra/ios-apps/tree/master/Auto%20Layouts)
 
 ### Day 8: 
 
