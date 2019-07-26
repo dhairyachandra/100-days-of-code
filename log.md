@@ -5,7 +5,7 @@
 
 **Today's Progress**: Learned about stack views in Xcode. Also designed 2 different app UI using stack views for landscape and portrait mode.
 
-**Link of work**:  [Food Stack View](https://github.com/dhairyachandra/ios-apps/tree/master/Stack%20Views)
+**Link of work**:  [Food - Landscape](https://github.com/dhairyachandra/ios-apps/tree/master/Stack%20Views),  [Fitness - Portrait](https://github.com/dhairyachandra/ios-apps/tree/master/Fitness%20Stack%20View)
 
 
 ### Day 10: 
