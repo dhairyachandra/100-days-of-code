@@ -5,7 +5,7 @@
 
 **Today's Progress**: Designed a war game user interface
 
-**Link of work**:  [War Card Game UI](https://github.com/dhairyachandra/ios-apps/tree/master/War%20Card%20Game%UI)
+**Link of work**:  [War Card Game UI](https://github.com/dhairyachandra/ios-apps/tree/master/War%20Card%20Game%20UI)
 
 ### Day 11: 
 
