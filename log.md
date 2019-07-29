@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 12: 
+
+**Today's Progress**: Designed a war game user interface
+
+**Link of work**:  [War Card Game UI](https://github.com/dhairyachandra/ios-apps/tree/master/War%20Card%20Game%UI)
+
 ### Day 11: 
 
 **Today's Progress**: Learned about stack views in Xcode. Also designed 2 different app UI using stack views for landscape and portrait mode.
